@@ -1,0 +1,5 @@
+curl -X 'GET' \
+  'https://mukalogistik.logistiqo.com/logistiqo/rest/api/v-1/shipment-list?year=2023' \
+  -H 'accept: application/json' \
+  -H 'Authorization: Basic am9zaDpqb3No' \
+  -H 'X-API-Key: 10'
